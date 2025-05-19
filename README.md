@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lunarBoyy
-- 👀 I’m interested in Blockchain Technology
+- 👀 I’m interested in Software engineering and Blockchain Technology
 - 🌱 I’m currently learning Solidity and Rust
 - 💞️ I’m looking to collaborate on web3 and web2 startups
 - 📫 How to reach me ...
